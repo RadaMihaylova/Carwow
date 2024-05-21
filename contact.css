@@ -9,7 +9,6 @@ body {
   font-size: 1.3rem;
   min-height: 100vh;
   line-height: 1.6;
-  max-width: 90%;
   margin: 0 auto;
 }
 
@@ -45,7 +44,7 @@ header {
 .main-nav {
   width: 100%;
   background-color: var(--primary-color);
-  padding-left: 5%;
+  padding: 3rem 5rem;
   display: flex;
   align-items: center;
   justify-content: space-between;
